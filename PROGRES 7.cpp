@@ -147,7 +147,7 @@ void menuUtama::menu(){
 
 bool menuUtama::validasiPinAdmin(){
 
-    const string PIN_ADMIN = "123456";
+    const string PIN_ADMIN = "161207";
     string pinInput;
     bool pinValid = true;
 
