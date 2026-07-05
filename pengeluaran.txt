@@ -1,0 +1,16 @@
+PGL001
+2026-07-04
+Bahan Laundry
+Softener
+4
+75000
+300000
+Sabun
+PGL002
+2026
+Operasional
+pokok
+450000
+2
+900000
+sakit
